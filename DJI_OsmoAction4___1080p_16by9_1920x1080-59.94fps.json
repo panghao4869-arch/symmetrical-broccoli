@@ -1,0 +1,70 @@
+{
+  "name": "DJI_OsmoAction4___1080p_16by9_1920x1080-59.94fps",
+  "note": "",
+  "calibrated_by": "hao pang",
+  "camera_brand": "DJI",
+  "camera_model": "OsmoAction4",
+  "lens_model": "",
+  "camera_setting": "",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "frame_readout_direction": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 14,
+  "fps": 59.94006,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.21196276157707175,
+    "camera_matrix": [
+      [
+        740.9070875359386,
+        0.0,
+        964.6447495800612
+      ],
+      [
+        0.0,
+        740.8793019996273,
+        538.5172750997228
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.19690966618358408,
+      -0.05744782436279751,
+      0.2429802031112619,
+      -0.17408294643820954
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.6.3",
+  "date": "2026-09-03",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}
